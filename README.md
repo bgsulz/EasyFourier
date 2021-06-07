@@ -5,7 +5,7 @@ Ultra-simplified, Unity-ready FFT.
 
 ## Quick start guide
 
-```
+```c#
 using System;
 using System.Collections.Generic;
 using EasyFourier;
